@@ -7,8 +7,6 @@ SinghRaman3/SinghRaman3 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://github-readme-stats.vercel.app/api?username=singhraman3&&show_icons=true&title_color=e4bf7a&icon_color=df6d74&text_color=daf7dc&bg_color=151515">
-
 Languages & Frameworks
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="40" style="vertical-align:top; margin:4px">
