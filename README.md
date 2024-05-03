@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">I'm Ramanpreet Singh from Delhi, India<br><br>- 📚 I'm currently learning Jenkins, SpringBoot<br>- ⚡ In my free time I play Valorant, Chess or go for a run 🏃‍♂️<br>- 📫 How to reach me singhraman3@hotmail.com <br></p>
+<p align="left">I'm Ramanpreet Singh from Delhi, India<br><br>- 📚 I'm currently learning Jenkins, Low Level Design<br>- ⚡ In my free time I play Valorant, Chess or go for a run 🏃‍♂️<br>- 📫 How to reach me singhraman3@hotmail.com <br></p>
 
 ###
 
